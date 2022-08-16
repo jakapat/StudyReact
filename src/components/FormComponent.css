@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Athiti:wght@300&family=Mali:wght@200;300&family=Prompt:ital@1&family=Titillium+Web&display=swap");
+
+label {
+  display: inline-block;
+  margin: 10px 0;
+  font-family: "Mali", cursive;
+  font-weight: bold;
+}
+
+input {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  font-family: "Mali", cursive;
+  padding: 14px;
+  width: 100%;
+}
+
+input:focus {
+    outline: none;
+}
+
+.btn {
+    background-color: rgb(8, 207, 108);
+    border-style: none;
+    cursor: pointer;
+    display: block;
+    margin: 10px 0 30px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+}
